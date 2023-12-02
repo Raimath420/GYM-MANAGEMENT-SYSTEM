@@ -1,5 +1,4 @@
 # GYM-MANAGEMENT-SYSTEM
-FITNESS MANAGEMENT SYSTEM 
-This project is about managing the details of GYM Members 
-It includes SQLdatabase 
-In this project includes Members name Age Timings Amount etc... details of GYM members
+This the Project FITNESS MANAGEMENT SYSTEM is about Storing and Managing the details of GYM Members. 
+It uses SQLdatabase for storing the data. 
+In this project Stores the Members name Age Timings Amount etc... and other details of GYM members
